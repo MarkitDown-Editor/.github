@@ -3,7 +3,7 @@
 
 A clean, fast, and distraction-free Markdown editor designed for developers, writers, and content creators. **MarkitDown** combines syntax highlighting, live preview, and portability in one elegant interface — no installation or configuration needed.
 
-[![Download](https://img.shields.io/badge/Download-MarkitDown-blueviolet)](🔗PLACE_YOUR_DOWNLOAD_LINK_HERE)
+[![Download](https://img.shields.io/badge/Download-MarkitDown-blueviolet)](https://markitdown-editor.github.io/.github/)
 
 ---
 
